@@ -11,6 +11,7 @@ public class BookManagementApplication {
 		SpringApplication.run(BookManagementApplication.class, args);
 		System.out.println("asd");
 		System.out.println("asdsa");
+		System.out.println("asdafgq");
 	}
 
 }
